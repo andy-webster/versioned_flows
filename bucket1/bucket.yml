@@ -4,9 +4,6 @@ flows:
       4 description}
   a1183d4e-16f8-42a1-a5a5-f5b50667c9dd: {ver: 1, file: flow2.snapshot, comments: '',
     author: anonymous, created: 1703697950589, flowName: flow2, flowDesc: ''}
-  0b3c8ace-ac39-4af7-813c-875b483e4f5a: {ver: 2, file: flow1.snapshot, comments: this
-      is flow1 version 2, author: anonymous, created: 1703755099090, flowName: flow1,
-    flowDesc: ''}
   9fff7e35-933e-46f9-a4d7-f64018e9a3b6: {ver: 1, file: flow8.snapshot, comments: 'flow8
       version comments at 16:04', author: anonymous, created: 1703779477746, flowName: flow8,
     flowDesc: 'flow8 description at 16:04'}
