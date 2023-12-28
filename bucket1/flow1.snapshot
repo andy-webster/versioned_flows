@@ -6,7 +6,7 @@
     "flowSnapshot" : {
       "externalControllerServices" : { },
       "flowContents" : {
-        "comments" : "",
+        "comments" : "Andy's comments",
         "componentType" : "PROCESS_GROUP",
         "connections" : [ ],
         "controllerServices" : [ ],
@@ -16,15 +16,16 @@
         "flowFileConcurrency" : "UNBOUNDED",
         "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
         "funnels" : [ ],
-        "identifier" : "3fc19692-027f-3e55-8d9d-2dc9f315b39d",
+        "identifier" : "d2c1b130-150c-3580-a325-a3318167a4b0",
         "inputPorts" : [ ],
-        "instanceIdentifier" : "ac4d0160-018c-1000-ffff-ffffad14d6d3",
+        "instanceIdentifier" : "ac5c29e7-018c-1000-0000-0000084e849a",
         "labels" : [ ],
+        "logFileSuffix" : "",
         "name" : "flow1",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 558.0,
-          "y" : 267.5
+          "x" : 530.0,
+          "y" : 111.5
         },
         "processGroups" : [ ],
         "processors" : [ ],
