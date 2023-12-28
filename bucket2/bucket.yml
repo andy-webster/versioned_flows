@@ -1,7 +1,4 @@
 flows:
-  1cbeadbb-f12c-49ec-8d92-65a2a6c1e8e4: {ver: 5, file: flow5.snapshot, comments: 'flow5
-      version comments at 13:43', author: anonymous, created: 1703771036760, flowName: flow5,
-    flowDesc: 'flow5 description 12:02'}
   65f926bd-cbbb-48e8-a167-d7b22cafd154: {ver: 1, file: flow6.snapshot, comments: 'flow6
       version comments at 13:57', author: anonymous, created: 1703771849423, flowName: flow6,
     flowDesc: 'flow6 description at 13:57'}
