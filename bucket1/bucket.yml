@@ -1,6 +1,6 @@
 flows:
-  9fff7e35-933e-46f9-a4d7-f64018e9a3b6: {ver: 1, file: flow8.snapshot, comments: 'flow8
-      version comments at 16:04', author: anonymous, created: 1703779477746, flowName: flow8,
+  9fff7e35-933e-46f9-a4d7-f64018e9a3b6: {ver: 2, file: flow8.snapshot, comments: 'flow8
+      version comments at 16:34', author: anonymous, created: 1703781261154, flowName: flow8,
     flowDesc: 'flow8 description at 16:04'}
 layoutVer: 1
 bucketId: ed324797-9978-4351-a48a-ecb1be3ec50b

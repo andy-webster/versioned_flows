@@ -6,7 +6,7 @@
     "flowSnapshot" : {
       "externalControllerServices" : { },
       "flowContents" : {
-        "comments" : "",
+        "comments" : "flow8 PG comments at 16:33",
         "componentType" : "PROCESS_GROUP",
         "connections" : [ ],
         "controllerServices" : [ ],
@@ -20,11 +20,12 @@
         "inputPorts" : [ ],
         "instanceIdentifier" : "b12b06fd-018c-1000-ffff-ffffe7caef0c",
         "labels" : [ ],
+        "logFileSuffix" : "",
         "name" : "flow8",
         "outputPorts" : [ ],
         "position" : {
-          "x" : -984.0,
-          "y" : -136.0
+          "x" : -1328.0,
+          "y" : -328.0
         },
         "processGroups" : [ ],
         "processors" : [ ],
