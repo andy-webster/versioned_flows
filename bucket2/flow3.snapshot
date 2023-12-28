@@ -6,7 +6,7 @@
     "flowSnapshot" : {
       "externalControllerServices" : { },
       "flowContents" : {
-        "comments" : "",
+        "comments" : "comments on flow3 from Andy",
         "componentType" : "PROCESS_GROUP",
         "connections" : [ ],
         "controllerServices" : [ ],
@@ -20,6 +20,7 @@
         "inputPorts" : [ ],
         "instanceIdentifier" : "afbbc296-018c-1000-ffff-ffffae289930",
         "labels" : [ ],
+        "logFileSuffix" : "",
         "name" : "flow3",
         "outputPorts" : [ ],
         "position" : {
