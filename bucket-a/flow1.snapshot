@@ -6,7 +6,7 @@
     "flowSnapshot" : {
       "externalControllerServices" : { },
       "flowContents" : {
-        "comments" : "",
+        "comments" : "PG comments",
         "componentType" : "PROCESS_GROUP",
         "connections" : [ ],
         "controllerServices" : [ ],
@@ -20,6 +20,7 @@
         "inputPorts" : [ ],
         "instanceIdentifier" : "b693cc9d-018c-1000-0000-000041e29bdc",
         "labels" : [ ],
+        "logFileSuffix" : "",
         "name" : "flow1",
         "outputPorts" : [ ],
         "position" : {
