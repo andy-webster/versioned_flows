@@ -6,7 +6,7 @@
     "flowSnapshot" : {
       "externalControllerServices" : { },
       "flowContents" : {
-        "comments" : "flow10",
+        "comments" : "flow10 at 2:18",
         "componentType" : "PROCESS_GROUP",
         "connections" : [ ],
         "controllerServices" : [ ],
@@ -24,8 +24,8 @@
         "name" : "flow10",
         "outputPorts" : [ ],
         "position" : {
-          "x" : -1809.0,
-          "y" : -559.5
+          "x" : -1552.0,
+          "y" : -808.0
         },
         "processGroups" : [ ],
         "processors" : [ ],
