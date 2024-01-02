@@ -1,0 +1,39 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "externalControllerServices" : { },
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "defaultBackPressureDataSizeThreshold" : "1 GB",
+        "defaultBackPressureObjectThreshold" : 10000,
+        "defaultFlowFileExpiration" : "0 sec",
+        "flowFileConcurrency" : "UNBOUNDED",
+        "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
+        "funnels" : [ ],
+        "identifier" : "16be0f2b-35f0-35af-997e-c9eca936e80b",
+        "inputPorts" : [ ],
+        "instanceIdentifier" : "cac0bd9c-018c-1000-0000-00001079365a",
+        "labels" : [ ],
+        "name" : "flow3",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : -3960.0,
+          "y" : -1944.0
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      },
+      "flowEncodingVersion" : "1.0",
+      "parameterContexts" : { },
+      "parameterProviders" : { }
+    }
+  }
+}
